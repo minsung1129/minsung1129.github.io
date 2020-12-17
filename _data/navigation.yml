@@ -4,8 +4,6 @@ main:
     url: "/about/" # 클릭시 이동할 URL
   - title: "Category"
     url: /categories/
-  - title: "Hello"
-    url: /hello
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
